@@ -1,12 +1,12 @@
 # Hi, I'm Maurycy 👋
 
-### Data, Software & Web Development
+### Web Development & Automation
 
-I build practical projects combining **web development, automation, data and digital platforms**.
+I build **web platforms and automation tools** that simplify complex workflows and keep results verifiable.
 
-My current work includes Python-based publishing tools, custom WordPress platforms and human-led, AI-assisted workflows. My background spans e-commerce, web analytics, SEO, digital content and real operational processes.
+My work combines WordPress, Python and system integration with hands-on experience in e-commerce, analytics and digital operations.
 
-I am most interested in building things that solve concrete problems, simplify repetitive processes or improve how information and content are managed.
+My projects involve content modelling, data migration and API integration. I investigate unexpected behavior and check whether changes preserve data and recover safely from interrupted operations.
 
 ## What I work with
 
@@ -111,11 +111,9 @@ I also have long-term experience managing websites, blogs and digital content ac
 
 ## Background
 
-My background combines **e-commerce, digital content, data-driven operations and years of hands-on experience building and managing websites**.
+Running a Shopify store gave me experience with pricing, promotions, fulfillment and digital acquisition. In operational roles, I have used sales, inventory and profitability data to prepare reports and improve processes.
 
-I have managed a real Shopify store, worked with WordPress and other CMS platforms, SEO, web analytics and digital campaigns, while also using sales and inventory data to improve operational processes.
-
-Over time, this evolved into a stronger technical focus - building websites, Python tools and automation systems designed around real workflows and practical problems.
+Years of managing websites and content also shape how I approach development: the structure needs to work for the people maintaining it, and changes need to be checked before release.
 
 I studied **Business Psychology at SWPS**, which complements my technical work with experience in communication, digital content and understanding how people interact with products, services and information.
 
@@ -123,12 +121,10 @@ I studied **Business Psychology at SWPS**, which complements my technical work w
 
 - Developing reliable Python publishing workflows
 - Building and improving production websites
-- Expanding my software engineering practices
-- Creating stronger technical case studies
-- Working with data and practical business processes
-- Designing human-led AI workflows with clear ownership and acceptance gates
+- Diagnosing integration failures and improving recovery workflows
+- Testing changes and preparing controlled releases
+- Using operational data to guide technical decisions
 - Exploring local audio and video tooling: ASR, caption alignment and vertical-video layout QA
-- Growing this portfolio as new projects are completed
 
 ## Portfolio
 
@@ -138,7 +134,7 @@ The website includes project descriptions, technical case studies and selected p
 
 ## How I develop projects
 
-I define product direction, requirements, information architecture, priorities and acceptance criteria, contribute to implementation, and review the resulting behavior and evidence. I use Codex and Claude to support analysis, implementation, testing and documentation; final decisions remain mine.
+I define requirements and acceptance criteria, make technical decisions and contribute to implementation. I use Codex and Claude for analysis, coding, testing and documentation, then review the results before accepting changes or releasing them.
 
 My media experiments extend existing tools rather than claim authorship of their underlying models or platforms. They are prototypes and benchmarks, not finished production systems.
 
