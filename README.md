@@ -2,7 +2,7 @@
 
 ### Web Development & Automation
 
-I build **web platforms and automation tools** that simplify complex workflows and keep results verifiable.
+I build WordPress platforms and Python tools for content, publishing and the work that connects them.
 
 My work combines WordPress, Python and system integration with hands-on experience in e-commerce, analytics and digital operations.
 
@@ -69,9 +69,9 @@ My projects involve content modelling, data migration and API integration. I inv
 
 A modular Python application for preparing, selecting and scheduling social media content through a command-line workflow.
 
-The implemented system combines transactional SQLite storage, content selection and deduplication, validated publishing packages and a Meta Graph API adapter. Recovery and reconciliation workflows handle interrupted operations and uncertain external results rather than blindly repeating a publication request.
+The system combines transactional SQLite storage, content selection and deduplication, validated publishing packages and a Meta Graph API adapter. It records publication intent before the request and uses API readback to reconcile uncertain results.
 
-The core publishing workflow is implemented; unrestricted production operation is not claimed. A separate credential-management component is still in development.
+One controlled live test confirmed public delivery. Routine production use remains blocked pending batch-wide checks. The current executor uses the Windows credential store, while a separate credential-management service remains unfinished.
 
 **Focus:** Python · SQLite · REST APIs · Scheduling · Data Integrity · Recovery · Contract Testing
 
@@ -81,7 +81,7 @@ A long-running gaming platform that I created in 2005 and continue to develop as
 
 The project combines a custom WordPress platform with controlled content migration, information architecture and an editorial ecosystem. A human-led orchestration workflow routes research, scripting, thumbnails, short-form content, localization and portal writing through defined ownership, quality checks and final acceptance.
 
-Supporting tools validate source provenance and file integrity during handoffs. A Python and WordPress publishing integration is locally implemented and remains under regression verification before production deployment.
+The publishing integration has verified draft creation and changes to published articles on the live site under specific approvals. I also released an [interactive map](https://interactivemap.tawerna-gothic.pl/) and [Lockpicker](https://lockpicker.tawerna-gothic.pl/), a browser interface built around Kamil Cieślik's MIT-licensed solver.
 
 **Focus:** WordPress · PHP · Python · PowerShell · Information Architecture · Workflow Orchestration · Quality Assurance
 
@@ -89,7 +89,7 @@ Supporting tools validate source provenance and file integrity during handoffs. 
 
 A gaming platform undergoing a staged rebuild around a custom WordPress backend, a canonical article model and a responsive child theme.
 
-The work includes content migration and integrity checks, legacy URL normalization, technical SEO and regression testing. The frontend foundation has been deployed and verified; a new editorial homepage is a locally verified release candidate, not yet deployed.
+The migration verified all 451 eligible articles. The homepage, search, hubs and article templates went live in November, followed by metadata and structured-data updates. The rollout used file manifests, route checks and a rollback plan.
 
 **Focus:** WordPress · PHP · MySQL · Content Modelling · Migration Validation · Responsive UI · Accessibility Testing
 
